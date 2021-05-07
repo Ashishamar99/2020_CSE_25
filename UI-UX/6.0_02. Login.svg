@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="239" height="114.809" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_6.0_02._Login">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="_6.0_02._Login" data-name="6.0_02. Login" clip-path="url(#clip-_6.0_02._Login)">
+    <rect width="375" height="812" fill="#f0faf8"/>
+    <g id="label" transform="translate(68 259)" clip-path="url(#clip-path)">
+      <g id="label-2" data-name="label" transform="translate(-1000.92 -335)">
+        <text id="Username" transform="translate(1007 350)" fill="#43425d" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Username</tspan></text>
+        <path id="Path_297" data-name="Path 297" d="M-835.08,2509.809h245.27" transform="translate(1836 -2144)" fill="none" stroke="#646d82" stroke-width="1"/>
+      </g>
+      <g id="label-3" data-name="label" transform="translate(-1000.92 -259)">
+        <text id="Password" transform="translate(1007 350)" fill="#43425d" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Password</tspan></text>
+        <path id="Path_297-2" data-name="Path 297" d="M-835.08,2509.809h245.27" transform="translate(1836 -2144)" fill="none" stroke="#646d82" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="Term_of_use._Privacy_policy" data-name="Term of use. Privacy policy" transform="translate(188 744)" fill="#43425d" font-size="11" font-family="SegoeUI, Segoe UI" opacity="0.504"><tspan x="-63.637" y="0">Term of use. Privacy policy</tspan></text>
+    <g id="btn_login" transform="translate(-906 -65)">
+      <g id="Rectangle_166" data-name="Rectangle 166" transform="translate(1001 606)" fill="#2cd889" stroke="#2cd889" stroke-width="1">
+        <rect width="185" height="50" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="184" height="49" rx="3.5" fill="none"/>
+      </g>
+      <text id="Login" transform="translate(1090 638)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-22.083" y="0">Login</tspan></text>
+    </g>
+    <g id="btn_signup" transform="translate(-1121 -135)">
+      <g id="Rectangle_167" data-name="Rectangle 167" transform="translate(1216 606)" fill="none" stroke="#2cd889" stroke-width="1">
+        <rect width="185" height="50" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="184" height="49" rx="3.5" fill="none"/>
+      </g>
+      <text id="Sign_up" data-name="Sign up" transform="translate(1305 638)" fill="#4d4f5c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-30.204" y="0">Sign up</tspan></text>
+    </g>
+    <g id="RememberMe" transform="translate(-927 -138)">
+      <g id="Rectangle_165" data-name="Rectangle 165" transform="translate(1001 525)" fill="#f0faf8" stroke="#808495" stroke-width="1">
+        <rect width="18" height="18" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17" height="17" rx="3.5" fill="none"/>
+      </g>
+      <text id="Remember_me" data-name="Remember me" transform="translate(1034 539)" fill="#43425d" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Remember me</tspan></text>
+    </g>
+    <text id="Forgot_Password" data-name="Forgot Password" transform="translate(244 644)" fill="#43425d" font-size="15" font-family="SegoeUI, Segoe UI" text-decoration="underline"><tspan x="-110.068" y="0">Forgot Password</tspan></text>
+    <text id="Welcome_back_Docter_Please_login_to_your_account." data-name="Welcome back Docter! 
+Please login to your account." transform="translate(188 174)" fill="#4d4f5c" font-size="15" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="-76.593" y="0">Welcome back Docter! </tspan><tspan x="-95.372" y="18">Please login to your account.</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(-65.456 -129.088)">
+      <path id="Path_1" data-name="Path 1" d="M365.978,217.969a7.722,7.722,0,0,1,6.551,3.783l3.9-1.989a11.759,11.759,0,0,0-10.451-5.849c-7.682,0-13.648,5.459-13.648,13.453s5.966,13.453,13.648,13.453a11.807,11.807,0,0,0,10.451-5.849l-3.9-1.989a7.637,7.637,0,0,1-6.551,3.783c-5.147,0-8.969-3.939-8.969-9.4S360.831,217.969,365.978,217.969Z" transform="translate(-118.672)" fill="#4e4e4e"/>
+      <path id="Path_2" data-name="Path 2" d="M429.381,220.577h7.877v21.993h4.562V220.577H449.7v-4.016H429.381Z" transform="translate(-169.635 -1.751)" fill="#4e4e4e"/>
+      <path id="Path_3" data-name="Path 3" d="M507.752,213.913c-7.8,0-13.3,5.693-13.3,13.453s5.5,13.453,13.3,13.453,13.3-5.693,13.3-13.453S515.551,213.913,507.752,213.913Zm0,22.851c-5.264,0-8.618-4.055-8.618-9.4,0-5.381,3.354-9.4,8.618-9.4,5.225,0,8.618,4.016,8.618,9.4C516.37,232.708,512.978,236.764,507.752,236.764Z" transform="translate(-212.676)" fill="#4e4e4e"/>
+      <path id="Path_4" data-name="Path 4" d="M217.124,213.913c-7.8,0-13.3,6.623-13.3,15.651,0,8.3,4.647,14.56,11.453,15.519-.658,8.291-6.667,14.805-13.962,14.805s-13.281-6.488-13.959-14.755c6.858-.765,11.562-6.929,11.562-15.751v-14.8H192.5a2.488,2.488,0,0,0-2.281,2.654h0a2.489,2.489,0,0,0,2.281,2.654H194.9v9.488c0,6.76-3.978,10.389-9.008,10.389-4.913,0-8.969-3.811-8.969-10.389v-9.488h2.747a2.489,2.489,0,0,0,2.281-2.654h0a2.489,2.489,0,0,0-2.281-2.654h-6.764v14.8c0,8.51,4.346,14.545,10.8,15.649.646,10.644,8.291,19.077,17.6,19.077,9.294,0,16.928-8.4,17.6-19.018,6.835-.935,11.5-7.208,11.5-15.526C230.421,220.536,224.923,213.913,217.124,213.913Zm0,26.585c-5.265,0-8.618-4.718-8.618-10.933,0-6.261,3.354-10.933,8.618-10.933,5.225,0,8.618,4.672,8.618,10.933C225.742,235.78,222.349,240.5,217.124,240.5Z" transform="translate(0 0)" fill="#2cd889"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="3.795" cy="3.795" r="3.795" transform="translate(213.33 225.487)" fill="#4e4e4e"/>
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="3.795" cy="1.953" rx="3.795" ry="1.953" transform="translate(182.087 226.842)" fill="#4e4e4e"/>
+      <path id="Path_5" data-name="Path 5" d="M599.784,232.354a7.294,7.294,0,0,0,6.161-7.643c0-4.8-3.354-8.15-8.5-8.15H586.019v26.01h4.562V220.578h6.239c2.574,0,4.445,1.638,4.445,4.133s-1.872,4.134-4.445,4.134h-.806a.909.909,0,0,0-.909.909v2.657a1.638,1.638,0,0,0,.23.837l5.541,9.323h5.265Z" transform="translate(-273.239 -1.751)" fill="#4e4e4e"/>
+    </g>
+    <path id="Path_428" data-name="Path 428" d="M-5.325,24.886,5.99-6.4l-1.6-4.38L-5.325,15.813-15.04-10.781l-1.6,4.38Z" transform="translate(57.219 59.215) rotate(90)" fill="#333"/>
+  </g>
+</svg>

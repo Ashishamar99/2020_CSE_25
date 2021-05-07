@@ -1,0 +1,60 @@
+1)
+The outbreak of Novel Coronavirus disease is a grave menace to the entire world affecting millions of people. During these difficult times it has become a challenge for every individual to consult a doctor in person.
+Our app is the one stop solution for the doctors where we have digitized the process of creating prescription for the patients by the doctor. The doctor is required to log in or sign up to the service and then he can then diagnose the patients and dictate the prescription which will then be sent to the patient as a message via whatsapp/SMS.
+===========================================================
+2)
+In addition to this we have provided a login to the patients where they can login to their accounts and schedule a meeting with the doctor, according to the doctors availability.
+This app also has a diagnostic center chatbot service in which the patients can book tests.
+We have not only made it simpler for the doctors but also made it accesible to all the people. Even the patients with a basic handset will be benifitted from our / no smartphone can get the prescription.
+
+=============================================================
+3)
+Ashishs sih slide-2(explain technical aspects and tech stack)
+=============================================================
+4)
+usecases
+dependencies
+show stoppers 
+future implementations
+pros: paper wastage, avoid covid 19 infection, reaching remote areas, 
+
+
+
+
+We should include 
+Where, when, what, how, who
+
+
+Example: Townsville General Hospital (where) operates 24 hours a day, 7 days a week. As such, patient needs must be addressed all around the clock. For the overnight shift (when), there are currently no cardiology technologists scheduled (what), which can create issues for emergency staff (who).
+
+Some patients wait for four hours or more for a medical laboratory assistant to administer an electrocardiogram (ECG), a task better suited for a cardiology technologist to perform and interpret. This results in poorer patient care and worse health outcomes (why).
+
+The hospital should always have a cardiology technologist available, even if they are only on call for the overnight shift (how).
+
+
+
+
+Due to the current covid-19 situation most of the consultations are done online/over a phone call due to which there are chances of having miscommunication in the medicines prescribed. Our idea mainly focuses on eliminating these errors and helping the doctors generate prescription by voice commands send the same to the patient via SMS/PDF.
+
+This idea also helps the doctors to send prescription in a hassel free way.Considering the current situation we have enhanced the idea and added additional features like diagnostic center chatbot to make it easier for patients to book tests.The idea is useful to people with or without smartphnes,reaching the remote areas.
+===========================================================
+
+Many of us have visited doctors and lost the prescriptions given to us by the doctors. Sure, we can call them and ask them for a picture, but we can always lose that message or that photo amongst the other million messages on our phones. <Insert Name here> is the solution. <Insert Name here> will record the conversation with your doctor and make a prescription which will be stored safely away from all the other “clusters” on your phone. In some clinics, the doctor might not have fixed timings and patients have to wait for hours and they all wish that they could’ve done something productive in that time. <Insert Name here> brings a creative and innovative solution where you can just type a message and get to know which doctor is available and when, and also make an appointment with them
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

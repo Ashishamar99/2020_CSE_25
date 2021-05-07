@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5000" height="350" viewBox="0 0 5000 350">
+  <defs>
+    <clipPath id="clip-_5.0_Section_-_Navigation">
+      <rect width="5000" height="350"/>
+    </clipPath>
+  </defs>
+  <g id="_5.0_Section_-_Navigation" data-name="5.0[Section] - Navigation" clip-path="url(#clip-_5.0_Section_-_Navigation)">
+    <text id="Patient_DASHBOARD" data-name="Patient DASHBOARD" transform="translate(2500 220)" font-size="140" font-family="SegoeUI, Segoe UI"><tspan x="-680.176" y="0">PATIENT DASHBOARD</tspan></text>
+  </g>
+</svg>
