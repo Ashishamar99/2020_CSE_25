@@ -8,6 +8,8 @@ const patientRegister = require("./patient/register");
 const patientLogin = require("./patient/login");
 const doctorRegister = require("./doctor/register");
 const doctorLogin = require("./doctor/login");
+const consultation = require("./consultation/consultation");
+const appointment = require("./consultation/appointment");
 
 let port = process.env.PORT || 3000;
 
@@ -69,6 +71,33 @@ app.post("/doctor/login", (req, res) => {
   doctorLogin.handleDoctorLogin(req, res, db);
 });
 
+//<--- Consultation -->
+app.get("/consultation", (req, res) => {
+  consultation.getConsultationList(req, res, db);
+});
+
+app.get("/consultation/:id", (req, res) => {
+  consultation.getConsultationWithID(req, res, db);
+});
+app.get("/consultation/patient/:id", (req, res) => {
+  consultation.getPatientConsultation(req, res, db);
+});
+app.get("/consultation/doctor/:id", (req, res) => {
+  consultation.getDoctorConsultation(req, res, db);
+});
+
+//<--- Appointment -->
+app.get("/appointment", (req, res) => {
+  appointment.getAppointmentList(req, res, db);
+});
+
+app.get("/appointment/:id", (req, res) => {
+  appointment.getAppointmentWithID(req, res, db);
+});
+
+app.get("/appointment/patient/:id", (req, res) => {
+  appointment.getAppointmentWithPID(req, res, db);
+});
 //<--- Main -->
 app.listen(port, () => {
   console.log(`app is running on port ${port}`);
